@@ -1,0 +1,21 @@
+body{
+	width: 600px;
+	margin: auto;
+}
+
+.wrap{	
+	background-color: red;
+}
+
+.content{
+	background-color: green;
+	float: left;
+
+}
+
+
+aside{
+	background-color: blue;
+	display: inline;
+	list-style: none;
+}
