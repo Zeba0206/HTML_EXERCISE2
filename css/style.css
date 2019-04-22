@@ -1,0 +1,150 @@
+body {
+	background: #2F4F4F; /*darkslategray*/
+	padding-top: 0px;
+}
+
+.wrap {
+	margin-top: 30px;
+	padding: 15px;
+	font-family: 'Amiri';
+	font-size: 12px;	
+	letter-spacing: 2px;
+}
+
+ .rightlogo img {
+ 	padding-top: 20px;
+ 	padding-left: 10px;
+	width: 300px;
+	height: 100px;
+ }
+
+header {
+	width: 100%;
+}
+
+
+	.title h1{
+	margin-left: 0px;
+	color:#4B0082; /*indigo*/
+	float: left;
+	font-family: "Atma";
+	font-size: 22px;
+
+}
+
+
+nav li {
+	position: relative;
+	bottom: 100px;
+	float: left;
+	display: inline;
+	margin-left: 0;
+	margin-right: 20px;
+	font-style: bold;
+	font-size: 20
+	px;
+}
+li:hover{
+		color : #00008B;
+	}
+
+ul {
+	float: right;
+	display: inline;
+	text-decoration: none;
+}
+
+h5, p {
+	color: #FFFFFF;
+	font-family: sans-serif;
+}
+
+div {
+	margin-top: 30px;
+}
+
+li a:hover {
+	color: green;
+}
+
+li a {
+	text-decoration: none;
+	color: #E6E6FA;
+	font-family: sans-serif; 
+	color: white;	
+}
+
+section {
+	box-sizing: border-box;
+	padding: 15px;
+}
+
+.title {
+	width: 100%;
+	background: #87CEEB; /*salmon*/
+	margin-top: 10px;
+}
+
+
+
+.title li{
+	float: right;
+	text-decoration: none;
+}
+
+.wrap1 h1 {
+	font-size: 50px;
+}
+
+.wrap1 h5 {
+	color: white;
+	font-family: 'Amiri';
+}
+
+.Right img {
+	width: 250px;
+	height: 70px;
+}
+
+.main img {
+	width: 290px;
+	height: 290px;
+	margin-right: 0;
+	margin-left: 0;
+}
+
+.main p {
+	color: white;
+}
+
+.text2 {
+	width: 190px;
+	text-align: left;
+}
+
+.left img{
+	margin; 10px 0px 10px 0px;
+	height: 380px;
+	width: 400px;
+}
+
+
+
+a:hover {
+  color: #00008B;
+  text-decoration: underline;
+}
+
+
+.wrap2 {
+	background: #C0C0C0; /*silver*/
+	height: 130px;
+	float: center;
+}
+
+footer {
+	display: inline;
+	text-decoration: none;
+	text-align: center;
+	width: 100%;
+}
